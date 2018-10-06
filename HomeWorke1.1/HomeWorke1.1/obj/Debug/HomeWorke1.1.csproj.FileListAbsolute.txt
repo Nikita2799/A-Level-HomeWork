@@ -1,0 +1,7 @@
+C:\Users\Nikita\Desktop\HOMEWORKE\HomeWorke1.1\HomeWorke1.1\bin\Debug\HomeWorke1.1.exe.config
+C:\Users\Nikita\Desktop\HOMEWORKE\HomeWorke1.1\HomeWorke1.1\bin\Debug\HomeWorke1.1.exe
+C:\Users\Nikita\Desktop\HOMEWORKE\HomeWorke1.1\HomeWorke1.1\bin\Debug\HomeWorke1.1.pdb
+C:\Users\Nikita\Desktop\HOMEWORKE\HomeWorke1.1\HomeWorke1.1\obj\Debug\HomeWorke1.1.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\HOMEWORKE\HomeWorke1.1\HomeWorke1.1\obj\Debug\HomeWorke1.1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\HOMEWORKE\HomeWorke1.1\HomeWorke1.1\obj\Debug\HomeWorke1.1.exe
+C:\Users\Nikita\Desktop\HOMEWORKE\HomeWorke1.1\HomeWorke1.1\obj\Debug\HomeWorke1.1.pdb
